@@ -96,10 +96,11 @@ Given the imbalance, evaluation focused on metrics beyond accuracy:
    - Future work could reduce dimensionality without significant information loss
 
 ### 📊 Visual Results Summary
-![ROC Curve Comparison](images/roc_curves.png)
+![ROC Curve Comparison](plots/ROC_comparison.png)
 *ROC curves showing XGBoost's superior discriminative ability*
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](plots/models_comparison_barplot.png)
 *Bar chart comparing key metrics across all four models*
+
 ---
 *Special thanks to my friend Alireza Asadollahi for helping me with the comprehensive and detailed Farsi report in this mini project.*
