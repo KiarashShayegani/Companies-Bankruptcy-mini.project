@@ -65,7 +65,7 @@ Given the imbalance, evaluation focused on metrics beyond accuracy:
 
 ## 📈 Key Results & Insights
 
-### 🏆 Model Performance Ranking
+### Model Performance Ranking
 | Rank | Model | F1-Score (Bankrupt) | ROC-AUC | Recall (Bankrupt) | Accuracy |
 |------|-------|---------------------|---------|-------------------|----------|
 | 1 | **XGBoost** | **0.4792** | **0.9486** | 0.5227 | 0.9633 |
@@ -103,4 +103,5 @@ Given the imbalance, evaluation focused on metrics beyond accuracy:
 *Bar chart comparing key metrics across all four models*
 
 ---
-*Special thanks to my friend Alireza Asadollahi for helping me with the comprehensive and detailed Farsi report in this mini project.*
+*Special thanks to my friend Alireza Asadollahi for helping me with the comprehensive and detailed Farsi report in this mini project.
+Make sure to check it out: [Complete Farsi Report](report-fa/report.pdf)*
