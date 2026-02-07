@@ -5,7 +5,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Kaggle Dataset](https://img.shields.io/badge/dataset-Kaggle-20BEFF.svg)](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
-[License](#-license)
 
 ## 🎯 Business Problem
 Corporate bankruptcy prediction is a critical task for financial institutions, investors, and regulatory bodies. Early identification of companies at risk enables:
@@ -102,5 +101,5 @@ Given the imbalance, evaluation focused on metrics beyond accuracy:
 
 ![Model Comparison](images/model_comparison.png)
 *Bar chart comparing key metrics across all four models*
-
-## 🗂️ Repository Structure
+---
+*Special thanks to my friend Alireza Asadollahi for helping me with the comprehensive and detailed Farsi report in this mini project.*
